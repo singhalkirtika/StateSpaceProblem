@@ -1,4 +1,4 @@
-# StateSpaceProblem
+# State Space Search Problem
 
 Three jealous husbands and their wives need to cross a river using a single boat. At no time should any of the women be left in company 
 with any of the men, unless her husband is present. The boat can carry up to two passengers and can not move by itself.
